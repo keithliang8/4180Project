@@ -27,10 +27,10 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | GND  | GND  |
 | VCC  | Vout  |
 | VM  | Barrel Jack Output  |
-| A01  | 3rd Motor Red |
-| A02  | 3rd Motor Black  |
-| B01  | 4th Motor Red  |
-| B02  | 4th Motor Black  |
+| A01  | Motor C Red |
+| A02  | Motor C Black  |
+| B01  | Motor D Red  |
+| B02  | Motor D Black  |
 | AI1  | Mbed p11 |
 | AI2  | Mbed p12 |
 | BI1  | Mbed p9 |
@@ -45,10 +45,10 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | GND  | GND  |
 | VCC  | Vout  |
 | VM  | Barrel Jack Output  |
-| A01  | 1st Motor Red |
-| A02  | 1st Motor Black  |
-| B01  | 2nd Motor Red  |
-| B02  | 2nd Motor Black  |
+| A01  | Motor A Red |
+| A02  | Motor A Black  |
+| B01  | Motor B Red  |
+| B02  | Motor B Black  |
 | AI1  | Mbed p5 |
 | AI2  | Mbed p13 |
 | BI1  | Mbed p14 |
