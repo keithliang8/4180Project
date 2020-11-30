@@ -85,6 +85,6 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | VCC | Barrel Jack Output |
 
 # Bluefruit Connect Controls
-![Pi 4 Pinout](/20201129_200715.jpg)
-This control pad lets the user control the car. The up button starts the car going forward at a low speed. Pressing 1 makes the car increase its speed while pressing 2 makes the car decrease its speed. Pressing down makes the robot go backwards at a low speed. The left and right buttons will make the robot turn in the direction pressed. Button 3 will stop the robot in its place. Button 4 is a horn that will make a beep when held down.
+![Pi 4 Pinout](/20201129_200715.jpg) <br>
+This control pad lets the user control the car. The up button starts the car going forward at a low speed. Pressing 1 makes the car increase its speed while pressing 2 makes the car decrease its speed. Pressing down makes the robot go backwards at a low speed. The left and right buttons will make the robot turn in the direction pressed. Button 3 will stop the robot in its place. Button 4 is a horn that will make a beep when held down. <br> <br>
 ![Pi 4 Pinout](/20201129_200729.jpg)
