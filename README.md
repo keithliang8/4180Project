@@ -38,3 +38,21 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | PWMA | Mbed p23 |
 | PWMB | Mbed p24 |
 | STBY | 330 ohm to Vout |
+
+## 2nd Dual H-Bridge
+| H-Bridge Pin      | Connection         |
+| ------------- | ------------- |
+| GND  | GND  |
+| VCC  | Vout  |
+| VM  | Barrel Jack Output  |
+| A01  | 1st Motor Red |
+| A02  | 1st Motor Black  |
+| B01  | 2nd Motor Red  |
+| B02  | 2nd Motor Black  |
+| AI1  | Mbed p5 |
+| AI2  | Mbed p13 |
+| BI1  | Mbed p14 |
+| BI2  | Mbed p8 |
+| PWMA | Mbed p21 |
+| PWMB | Mbed p22 |
+| STBY | 330 ohm to Vout |
