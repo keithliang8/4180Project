@@ -25,7 +25,7 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | H-Bridge Pin      | Connection         |
 | ------------- | ------------- |
 | GND  | GND  |
-| VCC  | Vout  |
+| VCC  | Mbed Vout  |
 | VM  | Barrel Jack Output  |
 | A01  | Motor C Red |
 | A02  | Motor C Black  |
@@ -37,13 +37,13 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | BI2  | Mbed p10 |
 | PWMA | Mbed p23 |
 | PWMB | Mbed p24 |
-| STBY | 330 ohm to Vout |
+| STBY | 330 ohm to Mbed Vout |
 
 ## 2nd Dual H-Bridge
 | H-Bridge Pin      | Connection         |
 | ------------- | ------------- |
 | GND  | GND  |
-| VCC  | Vout  |
+| VCC  | Mbed Vout  |
 | VM  | Barrel Jack Output  |
 | A01  | Motor A Red |
 | A02  | Motor A Black  |
@@ -55,7 +55,7 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | BI2  | Mbed p8 |
 | PWMA | Mbed p21 |
 | PWMB | Mbed p22 |
-| STBY | 330 ohm to Vout |
+| STBY | 330 ohm to Mbed Vout |
 
 ## Audio Amplifier
 | Audio Amplifier Pin      | Connection         |
@@ -64,5 +64,14 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | IN-  | GND  |
 | OUT+  | Speaker +  |
 | OUT-  | Speaker - |
-| PWR+  | Vout  |
+| PWR+  | Mbed Vout  |
 | PWR-  | GND  |
+
+## Bluetooth Module 
+| Bluetooth Module Pin      | Connection         |
+| ------------- | ------------- |
+| CTS  | GND  |
+| TXO  | Mbed p27  |
+| RXI  | Mbed p28  |
+| VIN  | Mbed VU |
+| GND  | GND  |
