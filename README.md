@@ -56,3 +56,13 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | PWMA | Mbed p21 |
 | PWMB | Mbed p22 |
 | STBY | 330 ohm to Vout |
+
+## Audio Amplifier
+| Audio Amplifier Pin      | Connection         |
+| ------------- | ------------- |
+| IN+  | Mbed p26  |
+| IN-  | GND  |
+| OUT+  | Speaker +  |
+| OUT-  | Speaker - |
+| PWR+  | Vout  |
+| PWR-  | GND  |
