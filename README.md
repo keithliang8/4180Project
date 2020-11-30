@@ -21,11 +21,13 @@ This project creates a bluetooth controlled car where the user can use the Bluef
     *   1x Large Breadboard
     *   1x Mini Breadboard
 # Pin Connections
-
-| Mbed Pin      | XBee         |
+## 1st Dual H-Bridge
+| H-Bridge Pin      | Connection         |
 | ------------- | ------------- |
 | GND  | GND  |
-| Vout(3.3V)  | VCC  |
-| p9  | DIN  |
-| p10  | DOUT  |
-| p11  | RESET  |
+| VCC  | Vout  |
+| VM  | Barrel Jack Output  |
+| A01  | 3rd Motor Red |
+| A02  | 3rd Motor Black  |
+| B01  | 4th Motor Red  |
+| B02  | 4th Motor Black  |
