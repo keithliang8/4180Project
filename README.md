@@ -20,3 +20,12 @@ This project creates a bluetooth controlled car where the user can use the Bluef
     *   1x Battery Holder
     *   1x Large Breadboard
     *   1x Mini Breadboard
+# Pin Connections
+
+| Mbed Pin      | XBee         |
+| ------------- | ------------- |
+| GND  | GND  |
+| Vout(3.3V)  | VCC  |
+| p9  | DIN  |
+| p10  | DOUT  |
+| p11  | RESET  |
