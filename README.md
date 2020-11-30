@@ -15,6 +15,7 @@ This project creates a bluetooth controlled car where the user can use the Bluef
     *   4x Motor Wheel Attachment
     *   1x Breadboard Mount Speaker
     *   1x Breadboard Compatible DC Barrel Jack Adapter
-    *   
-    *   
-    *   
+    *   4x AA Batteries
+    *   1x Battery Holder
+    *   1x Large Breadboard
+    *   1x Mini Breadboard
