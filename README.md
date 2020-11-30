@@ -85,5 +85,5 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | VCC | Barrel Jack Output |
 
 # Bluefruit Connect Controls
-![Pi 4 Pinout](/20201129_200715.jpg)
+![Pi 4 Pinout](/20201129_200715.jpg) 
 ![Pi 4 Pinout](/20201129_200729.jpg)
