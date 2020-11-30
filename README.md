@@ -75,3 +75,11 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | RXI  | Mbed p28  |
 | VIN  | Mbed VU |
 | GND  | GND  |
+
+## Sonar
+| Sonar Pin      | Connection         |
+| ------------- | ------------- |
+| GND  | GND  |
+| ECHO  | Mbed p7  |
+| TRIG  | Mbed p6  |
+| VCC | Barrel Jack Output |
