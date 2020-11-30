@@ -13,8 +13,8 @@ This project creates a bluetooth controlled car where the user can use the Bluef
     *   1x HC-SR04 Sonar Sensor
     *   4x DC Motor
     *   4x Motor Wheel Attachment
-    *   
-    *   
+    *   1x Breadboard Mount Speaker
+    *   1x Breadboard Compatible DC Barrel Jack Adapter
     *   
     *   
     *   
