@@ -3,7 +3,7 @@ Final Project for ECE 4180 <br>
 By: Matthew Ramberger and Keith Liang <br>
 ECE 4180 Section B: Fall 2020 <br>
 # Video Demonstration
-Youtube Link: https://youtu.be/viqLZLIYhG8
+Youtube Link:
 # Project Description
 This project creates a bluetooth controlled car where the user can use the Bluefruit Connect app to control the car. The user can control the direction, speed, and can even honk a horn. The user can also input coordinates that the car will go to autonomously.
 *   Parts List
@@ -31,3 +31,10 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | A02  | 3rd Motor Black  |
 | B01  | 4th Motor Red  |
 | B02  | 4th Motor Black  |
+| AI1  | Mbed p11 |
+| AI2  | Mbed p12 |
+| BI1  | Mbed p9 |
+| BI2  | Mbed p10 |
+| PWMA | Mbed p23 |
+| PWMB | Mbed p24 |
+| STBY | 330 ohm to Vout |
