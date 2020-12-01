@@ -2,7 +2,7 @@
 Final Project for ECE 4180 <br>
 By: Matthew Ramberger and Keith Liang <br>
 ECE 4180 Section B: Fall 2020 <br>
-![xx](/Top.jpg) <br>
+![xx](/Front.jpg) <br>
 # Video Demonstration
 Youtube Link: https://youtu.be/viqLZLIYhG8
 # Project Description
