@@ -85,6 +85,7 @@ This project creates a bluetooth controlled car where the user can use the Bluef
 | VCC | Barrel Jack Output |
 
 # Bluefruit Connect Controls
-![Pi 4 Pinout](/20201129_200715.jpg) <br>
+![xx](/20201129_200715.jpg) <br>
 This control pad lets the user control the car. The up button starts the car going forward at a low speed. Pressing 1 makes the car increase its speed while pressing 2 makes the car decrease its speed. Pressing down makes the robot go backwards at a low speed. The left and right buttons will make the robot turn in the direction pressed. Button 3 will stop the robot in its place. Button 4 is a horn that will make a beep when held down. <br> <br>
-![Pi 4 Pinout](/20201129_200729.jpg)
+![xx](/20201129_200729.jpg) <br>
+The UART panel lets you input directions you want the car to autonomously go to. The user can input !X followed by directions to control the car. The first input is the horizontal input where a positive number will make the car go right, and a negative will make it go left. The second input is the verticle direction where a postitive input will make the car go forward, and a negative will make it go backwards. If the user wanted the car to go left 3 feet and forward 5 feet, the user would input "!X-3,+5". If the user wanted the robot to go right 1 foot and backwards 8 feet, they would input "!X+1,-8". 
