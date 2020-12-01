@@ -2,6 +2,7 @@
 Final Project for ECE 4180 <br>
 By: Matthew Ramberger and Keith Liang <br>
 ECE 4180 Section B: Fall 2020 <br>
+![xx](/Top.jpg) <br>
 # Video Demonstration
 Youtube Link: https://youtu.be/viqLZLIYhG8
 # Project Description
@@ -21,6 +22,9 @@ This project creates a bluetooth controlled car where the user can use the Bluef
     *   1x Large Breadboard
     *   1x Mini Breadboard
 # Pin Connections
+![xx](/Top.jpg) <br>
+![xx](/Bottom.jpg) <br>
+The top and bottom of the car are shown in the pictures above. Four DC motors are connected to a large breadboard using electrical tape. All the connections listed in the tables below are made with the sonar on another mini breadboard facing the front of the car. An external 5V power supply using 4 AA batteries is connected at the front of the car. Another 5V power supply can be used to power the Mbed to make it easier to use. <br> <br>
 ## 1st Dual H-Bridge
 | H-Bridge Pin      | Connection         |
 | ------------- | ------------- |
